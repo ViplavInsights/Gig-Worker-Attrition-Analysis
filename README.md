@@ -1,27 +1,18 @@
-# Gig-Worker-Attrition-Analysis
-A 2-page Power BI dashboard analyzing attrition patterns, worker behavior, and shift trends.
-# Gig Worker Attrition Dashboard – Power BI
+#  Gig Worker Attrition Analysis – SQL + Power BI
 
-## 🔍 Project Overview
-This dashboard analyzes attrition patterns among gig economy workers across five major delivery companies using Power BI. The insights help understand why workers leave and how companies can improve retention.
+This project presents a comprehensive analysis of gig worker behavior, focusing on attrition, protest participation, earnings, and more. I used **PostgreSQL** for data exploration and **Power BI** for dynamic storytelling through interactive dashboards.
 
-## 🧩 Pages Breakdown
+---
 
-### 📄 Page 1 – Attrition Overview
-- Attrition by Company, City, and Shift
-- KPIs: Attrition Rate, Protest Rate, Average Earnings
-- Education-level Distribution
+## 🧠 Project Objectives
 
-### 📄 Page 2 – Behavior & Shift Dynamics
-- Long Hours Attrition %, Protest Count
-- Competitor Switch Reasons
-- Overall Attrition Reason Insights
+- Understand attrition patterns and reasons among gig workers
+- Analyze city-wise and shift-wise breakdowns
+- Identify protest-related behavioral insights
+- Compare company-wise performance and bonuses
+- Visualize earnings trends and worker retention metrics
 
-## 📊 Tools Used
-- Power BI Desktop
-- DAX Measures
-- Power BI Service for publishing
-
+---
 
 
 ## 🔗 Live Report (View it here):
